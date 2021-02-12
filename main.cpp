@@ -1,7 +1,6 @@
 /*
 *Author: Anthony Mazzola
 *Email: mazzolaa@oregonstate.edu
-*Date: 12/10/2019
 *Description: Main file for Final Project.
 */
 
